@@ -58,3 +58,7 @@ flutter build apk --release
 
 - Flutter SDK (Dart `^3.12.2`, per `pubspec.yaml`)
 - Dependencies: `flame`, `flame_audio`, `google_fonts`, `shared_preferences` (see `pubspec.yaml`)
+
+
+## App Screenshot
+![Subway App Screenshot](assets/images/app_screenshot.png)
